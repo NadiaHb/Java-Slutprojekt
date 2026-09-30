@@ -9,8 +9,11 @@ Blomsterbutik, användaren ska kunna se vilka blommor/varor det finns i lager, s
 
 Superklass
 Namn: Order
+
 Gemensamma fält: customerName, orderId, status, price, adress
+
 Gemensamma metoder: basketPrice(), displayOrder(), changeStatus()
+
 Subklasser (minst tre)
 Namn — vad gör den annorlunda, vilka metoder overridas?
 BouquetOrder, basketPrice() ovverridas. Priser beräknas utifrån kostnaden på varan/varorna i kundkorgen
