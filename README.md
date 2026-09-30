@@ -1,6 +1,8 @@
 Planeringsmall — Projektskiss
 Fyll i denna mall innan ni börjar koda. Skissen är ett första utkast, inte ett facit — det är både normalt och förväntat att klassnamn och struktur ändras när ni väl börjar implementera. Spara den ifyllda mallen som README i er första commit, tillsammans med namn på den/de som jobbar i projektet.
 
+Nadia Hörberg
+
 Projektidé
 En till två meningar: vilken domän, och vad programmet ska göra.
 Blomsterbutik, användaren ska kunna se vilka blommor/varor det finns i lager, skapa beställning och få den hemskickad.
